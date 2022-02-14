@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @DeepashPangali
+- 👀 I’m interested in Data Analysis
+- 🌱 I’m currently learning Data Science,Machine learning and Neural network
+- 📫 PH-9717914993 Email-dpangali1999@gmail.com
